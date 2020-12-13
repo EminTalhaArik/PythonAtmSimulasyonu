@@ -1,5 +1,4 @@
 # PythonAtmSimulasyonu
-Bu proje tamamen kişisel gelişim ve tekrar amaçlıdır. İsteyen arkadaşlar paylaşım yapabilir.
 
 Proje Anaconda Araçları/ Spyder kullanarak yazılmıştır.
 
